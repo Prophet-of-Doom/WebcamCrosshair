@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgdq8Y88BShZLUv/0bPeVsSZO8VBW8Xb8bD91aGXImlgvh0yR5O13Z0CVJYF/jm3EMK2QmyMN9VgUlD5pYQyDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Grayson\\source\\repos\\WebcamCrosshar\\WebcamCrosshar\\WebcamCrosshair.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grayson\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Grayson\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
